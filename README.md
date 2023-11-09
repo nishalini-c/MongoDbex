@@ -11,8 +11,7 @@
 
 **3. Create the above five movie documents into a movie details collection.**
 ```
-                        
-                        movies> db.moviedetails.insertMany([{Title:"Jurassic Park",Type:"Adventure",Director:"Steven Spielberg",ReleaseYear:1993},{Title:"Forrest Gump",Type:"Drama",Director:"Robert Zemeckies",ReleaseYear:1994}, 
+        movies> db.moviedetails.insertMany([{Title:"Jurassic Park",Type:"Adventure",Director:"Steven Spielberg",ReleaseYear:1993},{Title:"Forrest Gump",Type:"Drama",Director:"Robert Zemeckies",ReleaseYear:1994}, 
                         {Title:"Titanic",Type:"Romance",Director:"James Cameron",ReleaseYear:1997},{Title:"The Dark Knight",Type:"Action",Director:"Steven Spielberg",ReleaseYear:1993},{Title:"Avatar",Type:"Science Fiction",Director:"James Cameron,"ReleaseYear:2009}
 ```
 
