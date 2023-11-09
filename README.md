@@ -5,8 +5,7 @@
 ```
 **2. Create a collection called movie details.**
 ...
-      movies> db.createCollection("moviedetils")
-         { ok: 1 }
+     db.createCollection("moviedetils")
 ...
 
 **3. Create the above five movie documents into a movie details collection.**
@@ -28,8 +27,8 @@
 
 **4. List all documents created.**
 ...
-   movies> db.moviedetails.countDocuments()
-    5
+     db.moviedetails.countDocuments()
+     5
 ...
 
 
