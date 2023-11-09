@@ -5,6 +5,7 @@
 ```
 **2. Create a collection called movie details.**
 ...
+
      db.createCollection("moviedetils")
 ...
 
