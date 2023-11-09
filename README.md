@@ -1,6 +1,8 @@
 # MongoDbex
-1. Create a database called Movies.
+**1. Create a database called Movies.**
+```
       use movies
+```
 2. Create a collection called movie details.
       movies> db.createCollection("moviedetils")
          { ok: 1 }
