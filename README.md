@@ -24,11 +24,13 @@
     '4': ObjectId("654c83418d42846c861a83b6")
     }
   }
+  
 ...
 
 
 **4. List all documents created.**
 ...
+
      db.moviedetails.countDocuments()
      5
 ...
